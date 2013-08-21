@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PVZ", "PVZ\PVZ.vcxproj", "{6ACC11D3-9F8B-4619-A479-343C7613E4BC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://zyryanov.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PVZ\\PVZ.vcxproj
+		SccProjectName1 = PVZ
+		SccLocalPath1 = PVZ
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ACC11D3-9F8B-4619-A479-343C7613E4BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6ACC11D3-9F8B-4619-A479-343C7613E4BC}.Debug|Win32.Build.0 = Debug|Win32
+		{6ACC11D3-9F8B-4619-A479-343C7613E4BC}.Release|Win32.ActiveCfg = Release|Win32
+		{6ACC11D3-9F8B-4619-A479-343C7613E4BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
